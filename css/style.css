@@ -1,0 +1,13 @@
+.footer {
+    height: 60px;
+    line-height: 60px;
+}
+.footer a {
+    padding-left: 1em;
+}
+html {
+    overflow-y: scroll;
+}
+body {
+    margin-bottom: 60px;
+}
